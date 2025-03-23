@@ -1,3 +1,4 @@
 1. El perfil de servidor debe tener el nombre del personaje main en la guild.
 2. Solo se permite tener 1 personaje con rango Demonio o superior por cuenta.
 3. No se permite contenido NSFW
+xd
